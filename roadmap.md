@@ -1,0 +1,3 @@
+- [x] Make the reference header and navigation shared across every page.
+- [x] Add distinct Blog, Page, Shop, Wishlist, My Account, Shortcodes, and Contact pages in the same visual style.
+- [x] Verify navigation, page layouts, and interactive controls on desktop and mobile.
